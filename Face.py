@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
 """
 Created on Sun Nov 10 21:12:47 2019
 
-@author: Usuario
+@author: julia
 """
-
+'''
+https://github.com/julianapads/RostrosCNN.git'''
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
