@@ -11,7 +11,7 @@ The user must have the libraries installed below to run the program:
 
 Load Model.
 ===================
-There's two model you can upload , this files are available in Red_face5.1 and Red_face6 folder .zip
+There's two model you can upload , this files are available in Red_face5.1 and Red_face6 folder 
 ```bash
 Red_face5.1
 Red_face6
