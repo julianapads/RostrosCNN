@@ -16,8 +16,11 @@ There's two model you can upload
 Red_face5.1
 Red_face6
 ```
-you could select any of them , just change the value of the variable Load_Model
-
+you could select any of them , just change the value of the variable Load_Model 
+Once youve decied wich one use , just run the file 
+```bash
+python Face.py 
+```
 Results.
 ===================
 This program would plot the results of the image you select in this case , we select:
